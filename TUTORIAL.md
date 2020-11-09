@@ -1176,6 +1176,8 @@ export const Success = ({ post }) => {
 
 And there we go! We should be able to move back and forth between the homepage and the detail page.
 
+> **Redwood Router Docs**
+>
 > If you like what you've been seeing from the router, you can dive deeper into the [Redwood Router](/docs/redwood-router) guide.
 
 ### Summary
