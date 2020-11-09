@@ -1121,6 +1121,8 @@ const BlogPost = () => {
 export default BlogPost
 ```
 
+> **Automatic import of React**
+>
 > You may notice we don't have any explicit `import` statements for `React` itself. We (the Redwood dev team) got tired of constantly importing it over and over again in every file so we automatically import it for you!
 
 Let's take the post display code out of `BlogPostsCell` and put it here instead, taking the `post` in as a prop:
